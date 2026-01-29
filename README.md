@@ -74,7 +74,7 @@ Automated detections generated through correlation logic.
 ```
 windows-log-parser/
 ├── windows_log_parser.py    # Main parsing engine
-├── sample_logs.txt           # Example log dataset
+├── log_file.txt           # Example log dataset
 └── README.md                 # Documentation
 ```
 
