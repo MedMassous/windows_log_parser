@@ -98,13 +98,13 @@ This format mirrors exported Windows event logs suitable for analysis.
 
 **Clone the repository:**
 ```bash
-git clone https://github.com/MedMassous/windows-log-parser.git
-cd windows-log-parser
+git clone https://github.com/MedMassous/windows_log_parser.git
+cd windows_log_parser
 ```
 
 **Execute the parser:**
 ```bash
-python windows_log_parser.py
+python parser.py
 ```
 
 ---
