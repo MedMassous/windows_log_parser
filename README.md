@@ -119,7 +119,7 @@ The tool generates structured output including:
 
 **Sample Alert:**
 ```
-Detection: Possible Brute Force | Severity: Medium | Source: 10.0.0.5 | Events: 3 failed attempts
+Detected 10 failed login attempts from IP 10.0.0.5 indicating a possible brute force attack.
 ```
 
 ---
