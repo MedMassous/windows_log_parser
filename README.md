@@ -1,7 +1,6 @@
 # 🔐 Windows Security Log Parser
-[![CodeFactor](https://www.codefactor.io/repository/github/medmassous/windows_log_parser/badge)](https://www.codefactor.io/repository/github/medmassous/windows_log_parser)
 A Python-based security log analysis tool designed for blue team operations and SOC learning. This parser processes Windows Security and Sysmon-style logs, structures them into organized tables, and implements detection logic for common attack patterns like brute-force authentication attempts.
-
+[![CodeFactor](https://www.codefactor.io/repository/github/medmassous/windows_log_parser/badge)](https://www.codefactor.io/repository/github/medmassous/windows_log_parser)
 ---
 
 ## 🎯 Project Overview
